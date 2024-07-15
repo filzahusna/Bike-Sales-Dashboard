@@ -1,3 +1,5 @@
+# Bike Sales Dashboard
+
 Bike Sales Data Analysis with Excel
 
 - Data Cleaning (Remove Duplicates, Find and Replace, Nested IF, IF False etc.)
