@@ -1,3 +1,8 @@
-Bike Sales Data Analysis
+Bike Sales Data Analysis with Excel
 
-![bike_sales_dashboard](https://github.com/user-attachments/assets/729c3753-5092-460d-a662-cf1e6f2e0f14)
+*Data Cleaning (Remove Duplicates, Find and Replace, Nested IF, IF False etc.)
+*Pivot Tables
+*Added Charts
+*Added Slicer
+
+![]()
