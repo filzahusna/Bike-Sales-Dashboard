@@ -6,4 +6,4 @@ Bike Sales Data Analysis with Excel
 - Added Charts
 - Added Slicer
 
-![](https://github.com/filzahusna/Bike-Sales-Dashboard/blob/main/bike_sales_dashboard.gif)
+![](bike_sales_dashboard.gif)
