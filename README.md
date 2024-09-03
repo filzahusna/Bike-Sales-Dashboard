@@ -6,4 +6,6 @@ Bike Sales Data Analysis with Excel
 - Added Charts
 - Added Slicer
 
+https://www.youtube.com/watch?v=opJgMj1IUrc&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=27
+
 ![](bike_sales_dashboard.gif)
